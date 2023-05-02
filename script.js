@@ -2,7 +2,7 @@ const imagesList = document.querySelector(".img-block");
 const errorMessage = document.querySelector(".error-message");
 let searchQuery = "random";
 let pageIndex = 1;
-const key = "-rK4_QnSddGUzXgQzCh_QvWocUezO43ev-oD2iA-4Dc";
+const key = "";
 
 async function fetchdata() {
   try {
