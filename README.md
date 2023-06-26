@@ -1,8 +1,8 @@
-# image_gallery
+## image_gallery
 
 Infinite image gallery generator using 'Unsplash Api'
 
-# 🛠 Skills
+## 🛠 Skills
 Javascript, HTML, SCSS...
 
 
