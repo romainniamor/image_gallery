@@ -1,6 +1,9 @@
 # image_gallery
 
-Image generator using 'Openai'
+Infinite image gallery generator using 'Unsplash Api'
 
-## 🛠 Skills
+# 🛠 Skills
 Javascript, HTML, SCSS...
+
+
+
